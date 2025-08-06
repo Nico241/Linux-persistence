@@ -98,7 +98,7 @@ static void beacon(void) {
 }
 
 /*
-// Havent tried this but you can uncomment it and try it yourself, and maybe tweak a bit in order for it to work without accidentally killing your child
+// Havent tried this but you can uncomment it and try it yourself, and maybe edit it a bit in order for it to work without accidentally killing your child
 // Mentioned in the blog too.
 
 static void self_delete(void) {
